@@ -36,3 +36,6 @@ The dashboard helps users analyze business performance and make data-driven deci
 Sales-Dashboard/
 │── sales_dashboard.xlsx
 │── superstore_sales.csv
+
+
+<img width="795" height="351" alt="Screenshot 2026-07-26 022439" src="https://github.com/user-attachments/assets/891e866b-ae0f-435c-9318-705d59b67f7b" />
