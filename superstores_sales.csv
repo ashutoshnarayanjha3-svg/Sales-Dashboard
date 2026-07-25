@@ -1,0 +1,20 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Region,Category,Sub_Category,Sales,Quantity,Discount,Profit
+CA-2016-152156,11/08/2016,11/11/2016,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,South,Furniture,Bookcases,261.96,2,0,41.91
+CA-2016-152156,11/08/2016,11/11/2016,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,South,Furniture,Chairs,731.94,3,0,219.58
+CA-2016-138688,06/12/2016,06/16/2016,Second Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,West,Office Supplies,Labels,14.62,2,0,6.87
+US-2015-108966,10/11/2015,10/18/2015,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,South,Furniture,Furnishings,957.58,5,0.45,-383.03
+US-2015-108966,10/11/2015,10/18/2015,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,South,Office Supplies,Storage,22.37,2,0.2,2.12
+CA-2014-115812,06/09/2014,06/12/2014,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,Technology,Phones,907.15,5,0.2,90.72
+CA-2014-115812,06/09/2014,06/12/2014,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,Technology,Accessories,18.50,1,0,5.25
+US-2017-118983,03/15/2017,03/20/2017,First Class,AB-10450,Andrew Brown,Home Office,United States,New York,New York,East,Office Supplies,Binders,54.40,4,0.1,15.32
+US-2017-118983,03/15/2017,03/20/2017,First Class,AB-10450,Andrew Brown,Home Office,United States,New York,New York,East,Technology,Headphones,89.99,1,0,30.12
+CA-2018-120345,07/22/2018,07/25/2018,Standard Class,LM-10980,Linda Martinez,Consumer,United States,Chicago,Illinois,Central,Furniture,Tables,450.00,2,0.15,75.00
+CA-2018-120345,07/22/2018,07/25/2018,Standard Class,LM-10980,Linda Martinez,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Paper,12.99,5,0,4.50
+US-2019-135790,09/10/2019,09/15/2019,Second Class,JS-11234,John Smith,Corporate,United States,Dallas,Texas,Central,Technology,Laptops,1200.00,1,0.05,200.00
+US-2019-135790,09/10/2019,09/15/2019,Second Class,JS-11234,John Smith,Corporate,United States,Dallas,Texas,Central,Furniture,Bookcases,320.00,2,0,50.00
+CA-2020-145678,01/05/2020,01/10/2020,Standard Class,KR-11567,Karen Ross,Consumer,United States,Seattle,Washington,West,Office Supplies,Envelopes,8.99,10,0,3.20
+CA-2020-145678,01/05/2020,01/10/2020,Standard Class,KR-11567,Karen Ross,Consumer,United States,Seattle,Washington,West,Technology,Printers,450.00,1,0.1,80.00
+US-2021-156789,04/18/2021,04/22/2021,First Class,MT-11890,Michael Thompson,Home Office,United States,Atlanta,Georgia,South,Furniture,Chairs,299.99,2,0,90.00
+US-2021-156789,04/18/2021,04/22/2021,First Class,MT-11890,Michael Thompson,Home Office,United States,Atlanta,Georgia,South,Office Supplies,Binders,25.00,3,0,8.00
+CA-2022-167890,08/12/2022,08/16/2022,Second Class,SC-12045,Susan Clark,Consumer,United States,Denver,Colorado,West,Technology,Tablets,650.00,1,0.05,120.00
+CA-2022-167890,08/12/2022,08/16/2022,Second Class,SC-12045,Susan Clark,Consumer,United States,Denver,Colorado,West,Furniture,Furnishings,210.00,1,0,40.00
